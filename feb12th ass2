@@ -1,0 +1,10 @@
+a = int(input('Enter the number1:-'))
+b = int(input('Enter the number2:-'))
+if a == b:
+    print('two numbers are equal')
+else:
+    print('two numbers are not equal')
+if a>b:
+    print('a is greater than the b')
+else:
+    print('b is greater than the a')
